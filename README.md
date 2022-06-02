@@ -12,7 +12,7 @@
 
 ### Overview
 
-Esta documentación está dispobible también en [**Castellano**](LEEME.md).
+Esta documentación está disponible también en [**Castellano**](LEEME.md).
 
 ### General requirements
 
